@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">remote_db</string>
+    <string name="tip_1">蜂窝数据</string>
+    <string name="tip_2">Wi-Fi数据</string>
+    <string name="tip_3">传感器数据</string>
+    <string name="ex_1_1">停车场名称：</string>
+    <string name="ex_1_2">选择记录形式：</string>
+    <string name="ex_2_1">区域位置：</string>
+    <string name="ex_2_2">运营商：</string>
+    <string name="ex_2_3">网络制式：</string>
+    <string name="ex_2_4">基站ID：</string>
+    <string name="ex_2_5">信号强度：</string>
+    <string name="ex_2_6">MAC地址：</string>
+    <string name="ex_2_7">信号强度：</string>
+    <string name="ex_2_8">WiFi名称：</string>
+    <string name="ex_3_1">广播间隔：</string>
+    <string name="ex_3_2">已收集数据：</string>
+    <string name="ex_4_1">磁场强度：</string>
+    <string name="btn_1">建立数据库</string>
+    <string name="btn_2">关闭数据库</string>
+    <string name="btn_3">开始记录</string>
+    <string name="btn_4">暂停记录</string>
+    <string name="btn_4_1">切换地点</string>
+</resources>
